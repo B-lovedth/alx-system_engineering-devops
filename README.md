@@ -1,1 +1,1 @@
-Shell task 2
+Shell scripts for performing basic operations
